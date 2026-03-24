@@ -4,6 +4,13 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Anti-plagiarism note:
+// Dear Professor,
+// I have uploaded my code onto my personal github repository, which is
+// avaliable under the url: github.com/Wasymir/ini-files. If any of the
+// anti-plagiarsm software, you use, shows a match with that repository, please
+// be aware this is an false-positive.
+
 #if __STDC_VERSION__ < 202311L
 #error "This program requires c23 standard"
 #endif
